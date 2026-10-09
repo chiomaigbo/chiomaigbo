@@ -1,4 +1,4 @@
-# Hi, I'm Chioma Igbo 👋
+# Hi, I am Chioma Igbo 👋
 
 ### AI Automation | Business Analysis | Cybersecurity | Financial Operations
 
