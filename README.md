@@ -35,7 +35,9 @@ Projects involving business problem analysis, data quality assessment, hypothesi
 
 **Tools:** Power BI, Excel, SQL, PostgreSQL, Supabase, Miro.
 
-*Detailed Business Analysis project repositories will be added.*
+View my Business Analysis & Power BI Portfolio:
+Learning Completion & Engagement Analysis
+Includes three Power BI dashboards covering learning completion, hypothesis testing, and data quality assessment.
 
 ### 🔐 Cybersecurity & Security Operations
 
